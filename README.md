@@ -188,7 +188,7 @@ Heroku_ button will deploy your forked version of the application.
 
 3. Your Juice Shop instance is now also available at `https://3000-<GITPOD_WORKSPACE_ID>.<GITPOD_HOSTING_ZONE>.gitpod.io`.
 
-## Demo
+## Demoo
 
 Feel free to have a look at the latest version of OWASP Juice Shop:
 <http://demo.owasp-juice.shop>
