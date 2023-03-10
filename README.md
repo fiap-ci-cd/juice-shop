@@ -180,7 +180,7 @@ gcloud compute firewall-rules create juice-rule --allow tcp:3000
 If you have forked the Juice Shop repository on GitHub, the _Deploy to
 Heroku_ button will deploy your forked version of the application.
 
-### Gitpod 
+### Gitpod ee
 
 1. Login to [gitpod.io](https://gitpod.io) and use <https://gitpod.io/#https://github.com/juice-shop/juice-shop/> to start a new workspace. If you want to spin up a forked repository, your URL needs to be adjusted accordingly.
 
